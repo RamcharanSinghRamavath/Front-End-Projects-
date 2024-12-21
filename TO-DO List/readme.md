@@ -14,5 +14,5 @@ To run the To-Do List application locally, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/RamcharanSinghRamavath/Front-End-Projects-/tree/main/TO-DO%20List>
 
